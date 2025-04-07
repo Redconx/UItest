@@ -1,0 +1,10 @@
+.ds-c-step-indicator__step {
+    transition: all 0.2s ease;
+    border-radius: 4px;
+  }
+  
+  .ds-c-step-indicator__step:hover {
+    background-color: #f5f9fc;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
