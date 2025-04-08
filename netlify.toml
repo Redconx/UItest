@@ -3,5 +3,5 @@
   publish = "build/"
 
 [build.environment]
-  NODE_VERSION = "18" # Match your local version
-  NPM_FLAGS = "--legacy-peer-deps" # If using old React versions
+  NODE_VERSION = "20" # Match your local version
+  NPM_FLAGS = "--legacy-peer-deps" 
